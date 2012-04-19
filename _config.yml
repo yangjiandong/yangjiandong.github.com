@@ -1,3 +1,4 @@
+# coding: utf-8
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
@@ -10,13 +11,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : 杨建东的博客
-tagline: Site Tagline
+tagline: 感觉javascript很有前途，有空再看看python
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : yangjiandong
+  email : young.jiandong@gmail.com
+  github : yangjiandong
+  twitter : yangjiandong
+  feedburner : yangjiandong
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -26,7 +27,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : http://yangjiandong.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
